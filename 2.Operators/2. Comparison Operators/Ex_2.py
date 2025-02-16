@@ -7,3 +7,4 @@ if(num_1 == num_2):
     print("The values are equal")
 else:
     print("The values are not equal")
+
